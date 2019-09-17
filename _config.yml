@@ -1,6 +1,6 @@
 title: Tracking Lori's mood #博客标题
 description: Happy or Unhappy #博客描述
-keywords: blog,css,html,php #博客关键字
+keywords: Personal blog #博客关键字
 author: "Link"
 
 #title hide and show
@@ -18,7 +18,7 @@ paginate: 8 #同时显示的最大文章数，超过自动分页
 paginate_path: "page:num"
 
 background: https://api.dujin.org/bing/1920.php
-theme_color: 546E7A
+theme_color: FF8A33
 
 google_analytics:
 # hydrogen-blog date format
@@ -27,7 +27,7 @@ hydrogen-blog:
   date_format: "%b %-d, %Y"
 
 #MathJax switch
-MathJax: false
+MathJax: True
 
 #install emoji
 plugins:
