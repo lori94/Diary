@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A unlucky day
+title: An unlucky day
 tags: Hydrogen
 stickie: true
 ---
